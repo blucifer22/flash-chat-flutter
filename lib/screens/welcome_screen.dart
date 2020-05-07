@@ -34,7 +34,6 @@ class _WelcomeScreenState extends State<WelcomeScreen>
         setState(() {
           // Don't actually have to do anything in here
         });
-        print(animation.value);
       },
     );
   }
